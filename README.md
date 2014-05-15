@@ -5,5 +5,5 @@ customize favicon on aws console
 
 Tested Browser
 -------------
-FireFox 17
-Chrome 30
+FireFox 29
+Chrome 34
